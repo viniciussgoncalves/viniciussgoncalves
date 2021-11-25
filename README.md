@@ -19,7 +19,9 @@
   <img align="center" alt="Vini-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Vini-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Vini-Proxmox" height="30" width="40" src="https://www.proxmox.com/images/proxmox/proxmox-logo-stacked-inverted-color.png">
+  <!--
   <img align="right" alt="Vini-avatar" height="150" style="border-radius:50px;" src="https://i.ibb.co/rtHmqZm/avatar.png">
+  -->
 </div>
   
 ##
