@@ -1,4 +1,4 @@
-### Olá sou o Vinícius Gonçalves 👋
+### Olá, sou o Vinícius Gonçalves 👋
 
 
 - 🔭 Hoje eu trabalho com Infraestrutura de TI
