@@ -1,8 +1,8 @@
 ### Olá, sou o Vinícius Gonçalves 👋
 
 
-- 🔭 Hoje eu trabalho com Infraestrutura de TI
-- 🌱 Estudo Engenharia da Computação
+- 🔭 Hoje eu trabalho como DevOps Analyst
+- 🌱 Graduado Engenharia da Computação
 - 😄 Pronouns: ele/dele
 <!--
 <div align="center">
