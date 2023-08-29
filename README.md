@@ -1,7 +1,7 @@
 ### Olá, sou o Vinícius Gonçalves 👋
 
 
-- 🔭 Hoje eu trabalho como DevOps Analyst
+- 🔭 Hoje eu trabalho como DevOps Engineer
 - 🌱 Graduado Engenharia da Computação
 - 😄 Pronouns: ele/dele
 <!--
